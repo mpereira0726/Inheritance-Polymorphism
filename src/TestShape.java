@@ -12,14 +12,14 @@ public class TestShape {
       System.out.println(c2.toString());
       System.out.println();
 
-      //Rectangle r1 = new Rectangle(3, 2, true, "Blue");
-      //System.out.println("r1: ");
-      //System.out.println(r1.toString());
-      //System.out.println();
+      Rectangle r1 = new Rectangle(3, 2, true, "Blue");
+      System.out.println("r1: ");
+      System.out.println(r1.toString());
+      System.out.println();
 
-     // Rectangle r2 = new Rectangle(3.2, 4, false, "Red");
-      //System.out.println("r2: ");
-     // System.out.println(r2.toString());
+      Rectangle r2 = new Rectangle(3.2, 4, false, "Red");
+      System.out.println("r2: ");
+      System.out.println(r2.toString());
 
     }
 }
